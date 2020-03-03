@@ -41,6 +41,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.3.4",
-    "passport": "^0.4.0"
+    "passport": "^0.4.0",
+    "tree-kill": "^1.2.2"
   }
 }
