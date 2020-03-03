@@ -1,6 +1,6 @@
 {
   "name": "testcafe-reporter-uistatusreporter",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "uistatusreporter TestCafe reporter plugin.",
   "repository": "https://github.com/ognif/testcafe-reporter-uistatusreporter",
   "author": {
